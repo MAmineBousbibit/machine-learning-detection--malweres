@@ -1,5 +1,7 @@
 # machine-learning-detection--malweres
 
+
+
 ## Titre du Projet: Intégration MLOps pour la Détection de Malware
 
 ## Introduction
@@ -10,6 +12,7 @@ L'objectif principal est d'intégrer les principes MLOps avec les systèmes de d
 
 
 ## Structure du Projet
+![Uploading image.png…]()
 
 
 ## Configuration et Installation
