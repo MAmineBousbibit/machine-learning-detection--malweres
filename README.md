@@ -22,6 +22,7 @@ pour la partie choisi de modèle on a testé plusieurs modèles soit dans la par
 Prérequis
  
    Docker
+   
    Node.js et npm
 
 ## Étapes d'Installation
